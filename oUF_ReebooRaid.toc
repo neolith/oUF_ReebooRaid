@@ -1,0 +1,9 @@
+## Interface: 30000
+## Title: oUF_ReebooRaid
+## Author: neolith of EU-Aegwynn
+## Notes: oUF RaidFrames
+## Version: BETA
+## Dependencies: oUF
+## OptionalDeps: oUF_DebuffHighlight, oUF_HealComm, oUF_Banzai
+
+oUF_ReebooRaid.lua
